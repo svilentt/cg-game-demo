@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OGL_Lighting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameDemo.cpp
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\shader.h(71): warning C4101: 'infoLog': unreferenced local variable
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\shader.h(70): warning C4101: 'success': unreferenced local variable
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(217): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(218): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(224): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(225): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(230): warning C4244: 'initializing': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(231): warning C4244: 'initializing': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(235): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(240): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(247): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(377): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(474): warning C4018: '<': signed/unsigned mismatch
+c:\users\svilen\documents\visual studio 2015\projects\ogl_lighting\ogl_lighting\gamedemo.cpp(494): warning C4018: '<': signed/unsigned mismatch
+  OGL_Lighting.vcxproj -> C:\Users\Svilen\Documents\Visual Studio 2015\Projects\OGL_Lighting\Debug\GameDemo.exe
+  OGL_Lighting.vcxproj -> C:\Users\Svilen\Documents\Visual Studio 2015\Projects\OGL_Lighting\Debug\GameDemo.pdb (Full PDB)
